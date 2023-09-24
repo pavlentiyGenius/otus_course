@@ -26,7 +26,7 @@ MVP необходимо представить через 3 месяца пос
 * FN = 5
 
 **Матрица ошибок. Крайний случай.**\
-![heatmap](attachment:otus_hw_1/img/heatmap.png)
+![heatmap](attachment:/otus_hw_1/img/heatmap.png)
 
 * `Precision >= 0.949` - ошибка 1 рода
 * `Recal >= 0.979` - ошибка 2 рода
