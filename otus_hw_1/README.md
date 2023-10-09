@@ -32,12 +32,7 @@ MVP необходимо представить через 3 месяца пос
 * => `F1-score >= 0.969` - среднегармоническое между точностью и полнотой
 
 ## Mission Model Canvas
-![Mission Canvas](otus_hw_1/img/Business-Model-Canvas_no_title.png)
+![Mission Canvas](img/Business-Model-Canvas_no_title.png)
 
 ## Декомпозиция системы
-![System](otus_hw_1/img/System.png)
-
-
-```python
-
-```
+![System](img/System.png)
